@@ -27,26 +27,6 @@ Solution:
 First we have read all the values x, y, z, n input from user  and convert those values to integer. Then we use list comprehension.
 
 Here we have applied a list comprehension inside the print function. It sum up to, for all the value of i in x+1, for all the value of j in y+1, for all the value of k in z+1, if the value of i+j+k is not equal to n, append the value of [ i , j, k ] in list. After all the loop have run their course, the list is print out.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 '''
 
 
